@@ -2,7 +2,7 @@
 
 <h2 align="center">
 
-[🌐WebSite](https://fast-react-pizza-alamin.vercel.app)
+[🌐WebSite](https://pizza-express-phi.vercel.app/)
 
 </h2>
 
@@ -23,7 +23,7 @@
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://fast-react-pizza-alamin.vercel.app">
+<a align="center" href="https://pizza-express-phi.vercel.app/">
 
 ![Screenshot](./public/image.png)
 
