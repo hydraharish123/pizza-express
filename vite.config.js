@@ -5,4 +5,5 @@ import eslint from "vite-plugin-eslint";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), eslint()],
+  base: process.env.VITE_BASE_PATH || "/pizza-express",
 });
